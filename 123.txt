@@ -1,2 +1,0 @@
-tryn test
-12
